@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.fondo{
+    background: url('../img/fondo.jpg') no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+
+.ptop{
+    margin-top: 10vh;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.imgcir{
+    
+    border-radius: 50%;
+    background: #D0D3D4;
+    width:15em;
+    height: 15em;
+    margin-top:80px;
+    margin-bottom:40px;
+}
+
+.pgrid{
+    margin-bottom: 40px;
+}
+
+.fila3{
+    margin-top: 80px;
+}
+
+footer{
+    background-color: #3c4858;
+}
